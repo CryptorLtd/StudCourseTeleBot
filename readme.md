@@ -28,9 +28,9 @@
 - aiomysql (библиотека для работы с MySQL базой данных)
 
 ## Дополнительная информация
-Документация Telegram Bot API: **https://core.telegram.org/bots/api**
-Документация aiogram: **https://docs.aiogram.dev/**
-Документация aiomysql: **https://aiomysql.readthedocs.io/**
+- Документация Telegram Bot API: **https://core.telegram.org/bots/api**
+- Документация aiogram: **https://docs.aiogram.dev/**
+- Документация aiomysql: **https://aiomysql.readthedocs.io/**
 
 Убедитесь, что перед использованием проекта вы установили все необходимые зависимости и настроили базы данных в соответствии с вашими требованиями.
 
